@@ -1,8 +1,8 @@
 <!-- Introduction -->
 # Hi, I'm Gemene Miesso! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gemiunique-blue?style=flat-square&logo=linkedin&color=2867B2)](http://linkedin.com/in/Gemiunique)
-[![GitHub](https://img.shields.io/badge/GitHub-Gemiunique-black?style=flat-square&logo=github&color=181717)](https://github.com/Gemiunique)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gemene@Miesso-blue?style=flat-square&logo=linkedin&color=2867B2)](http://linkedin.com/in/Gemiunique)
+[![GitHub](https://img.shields.io/badge/GitHub-Gemene@Miesso-black?style=flat-square&logo=github&color=181717)](https://github.com/Gemiunique)
 
 Welcome to my profile! I'm a passionate and enthusiastic software developer with experience in Python, JavaScript, C, and Java. I love building innovative solutions and exploring new technologies. Constantly seeking opportunities to learn and grow, I enjoy collaborating with others to create impactful projects.
 
